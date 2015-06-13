@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Navigation App</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="email">wavemeup1@gmail.com</string>
+    <string name="action_settings">Settings</string>
+    <string name="version">Version 0.0.2</string>
+    <string name="pointA">Where are you?</string>
+    <string name="byCar">By car</string>
+    <string name="walking">Walking</string>
+    <string name="pointB">Final point</string>
+    <string name="center_name">Sheba Medical Center</string>
+    <string name="about_text">This application will help you to move around the Sheba Medical Center.</string>
+    <string name="Tab1_text">Welcome to our Navigation App!\nStart your trip by pressing button</string>
+    <string name="title_activity_route_start">Create new route</string>
+    <string-array name="points_array">
+        <item>Entrance</item>
+        <item>Main Building</item>
+        <item>Prof. Michael Belking</item>
+        <item>Psychiatric</item>
+        <item>Obstetrics</item>
+    </string-array>
+    <string name="title_activity_about">Information</string>
+    <string name="big_about">The Sheba Medical Center (SMC), Israel\'s major hospital and its leading center of
+
+medical research and education, has made a commitment to clinical excellence,
+
+based on a strong research and development foundation, by investing in profes-
+sional human resources, infrastructure and facilities. SMC is known for the broad
+
+scope of its work and experience in Health.\nSMC is the largest and most comprehensive Medical Center in the Middle East. It
+
+operates two hospitals (a general and a rehabilitation) with a total of 1,700 beds,
+
+has extensive research activities and an academic training campus;
+
+Clinical activity: 1,400,000 outpatient visits/year; 170,000 emergency patients/year;
+
+85,000 hospitalizations/year; 48,000 surgical procedures/year; and 10,500
+
+deliveries/year.\n
+
+    Approximately 7,500 health care professionals provide almost four million proce-
+dures and medical tests to more than one million patients a year.
+
+Sheba also is home to the Israel National Center for Health Policy and
+
+Epidemiology Research (the equivalent to the U.S. National Institutes of Health-
+NIH)</string>
+</resources>
